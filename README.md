@@ -1,5 +1,5 @@
  <header>
-    <h1>Onkar Vasav - Visionary Software Developer 🚀</h1>
+    <h1 align="center">Onkar Vasav - Visionary Software Developer 🚀</h1>
     <h3 align="center">SDE1 at Glide Insurance and Broking Services PVT LTD</h3>
     <h3 align="center">A Crio certified frontend developer</h3>
   </header>
@@ -14,10 +14,10 @@
 
  <section>
   <h2>💻 Skills Snapshot</h2>
-  <p>Languages & Frameworks: &middot; HTML5, &middot; CSS3, &middot; JavaScript (ES7), &middot; React JS, &middot; Next JS, &middot; Bootstrap, &middot; Material UI, &middot; Tailwind CSS </p>
-  <p>Web Alchemy: &middot; REST APIs, &middot; JSON, &middot; DOM Manipulation </p>
-  <p>Backend Sorcery: &middot; Node JS, &middot; Express JS, &middot; MongoDB </p>
-  <p>Tool Mastery: &middot; Github, &middot; GIT, &middot; Postman, &middot; Vs Code, &middot; Babel, &middot; Webpack, &middot; Vercel, &middot; NPM, &middot; Figma </p>
+  <p>Languages & Frameworks:  HTML5 &middot; CSS3 &middot; JavaScript (ES7) &middot; React JS &middot; Next JS &middot; Bootstrap &middot; Material UI &middot; Tailwind CSS </p>
+  <p>Web Alchemy:  REST APIs &middot; JSON &middot; DOM Manipulation </p>
+  <p>Backend Sorcery:  Node JS &middot; Express JS &middot; MongoDB </p>
+  <p>Tool Mastery:  Github &middot; GIT &middot; Postman &middot; Vs Code &middot; Babel &middot; Webpack &middot; Vercel &middot; NPM &middot; Figma </p>
 </section>
 
 
