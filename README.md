@@ -12,13 +12,14 @@
     <p>Ring Me Up: 9860430009</p>
   </section>
 
-  <section>
-    <h2>💻 Skills Snapshot</h2>
-    <p>Languages & Frameworks: <h5> HTML5, CSS3, JavaScript (ES7), React JS, Next JS, Bootstrap, Material UI, Tailwind CSS </h5></p>
-    <p>Web Alchemy:  <h5> REST APIs, JSON, DOM Manipulation </h5></p>
-    <p>Backend Sorcery:  <h5> Node JS, Express JS, MongoDB </h5></p>
-    <p>Tool Mastery:  <h5> Github, GIT, Postman, Vs Code, Babel, Webpack, Vercel, NPM, Figma </h5></p>
-  </section>
+ <section>
+  <h2>💻 Skills Snapshot</h2>
+  <p>Languages & Frameworks: &middot; HTML5, &middot; CSS3, &middot; JavaScript (ES7), &middot; React JS, &middot; Next JS, &middot; Bootstrap, &middot; Material UI, &middot; Tailwind CSS </p>
+  <p>Web Alchemy: &middot; REST APIs, &middot; JSON, &middot; DOM Manipulation </p>
+  <p>Backend Sorcery: &middot; Node JS, &middot; Express JS, &middot; MongoDB </p>
+  <p>Tool Mastery: &middot; Github, &middot; GIT, &middot; Postman, &middot; Vs Code, &middot; Babel, &middot; Webpack, &middot; Vercel, &middot; NPM, &middot; Figma </p>
+</section>
+
 
   <section>
     <h2>🚀 Professional Journey</h2>
